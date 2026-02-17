@@ -7,6 +7,11 @@ Spring Boot + REST API + Thymeleaf Full Stack CRUD Application
 - The Products Management System is a full-stack web application developed using Spring Boot, REST APIs, and Thymeleaf.
 - This project demonstrates complete CRUD (Create, Read, Update, Delete) operations for managing product data in a structured and user-friendly way.
 - It is designed to showcase backend API development along with frontend integration using server-side rendering.
+
+![image](https://github.com/BALAKUMARAN-developer/Thymeleaf-RestAPI/blob/main/CrudProduct.png)
+
+---
+![image](https://github.com/BALAKUMARAN-developer/Thymeleaf-RestAPI/blob/main/Productedit.png)
   
 ---
 
@@ -19,7 +24,7 @@ Spring Boot + REST API + Thymeleaf Full Stack CRUD Application
 - Responsive UI using Thymeleaf
 - MVC Architecture
 - Database Integration (MySQL)
-- 
+  
 ---
 
 **🛠️ Technologies Used**
@@ -40,10 +45,6 @@ Spring Boot + REST API + Thymeleaf Full Stack CRUD Application
 - Frontend (Thymeleaf) interacts with backend REST APIs.
 
 ---
-
-![image](https://github.com/BALAKUMARAN-developer/Thymeleaf-RestAPI/blob/main/Productedit.png)
-![image](https://github.com/BALAKUMARAN-developer/Thymeleaf-RestAPI/blob/main/CrudProduct.png)
-
 ---
 
 
