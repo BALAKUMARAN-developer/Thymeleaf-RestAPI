@@ -11,15 +11,15 @@ Spring Boot + REST API + Thymeleaf Full Stack CRUD Application
 ---
 
 **🚀 Features**
-✔ Add New Products
-✔ View All Products
-✔ Update Existing Products
-✔ Delete Products
-✔ RESTful API Endpoints
-✔ Responsive UI using Thymeleaf
-✔ MVC Architecture
-✔ Database Integration (MySQL / H2)
-
+- Add New Products
+- View All Products
+- Update Existing Products
+- Delete Products
+- RESTful API Endpoints
+- Responsive UI using Thymeleaf
+- MVC Architecture
+- Database Integration (MySQL)
+- 
 ---
 
 **🛠️ Technologies Used**
@@ -41,8 +41,10 @@ Spring Boot + REST API + Thymeleaf Full Stack CRUD Application
 
 ---
 
-![image](https://github.com/username/repository/assets/123456/image.png)
-![image](https://github.com/username/repository/assets/123456/image.png)
+![image](https://github.com/BALAKUMARAN-developer/Thymeleaf-RestAPI/blob/main/Productedit.png)
+![image](https://github.com/BALAKUMARAN-developer/Thymeleaf-RestAPI/blob/main/CrudProduct.png)
+
+---
 
 
 
